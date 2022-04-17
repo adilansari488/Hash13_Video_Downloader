@@ -13,6 +13,5 @@ with open(filename, 'ab') as file2 :
         url = 'https://embed-fastly.wistia.com' + lines[i].strip()
         r = requests.get(url, allow_redirects=True)
         file2.write(r.content)
-        # open(filename, 'ab').write(r.content)
 print("Download Completed.")
 file.close()
