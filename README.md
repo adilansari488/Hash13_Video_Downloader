@@ -1,4 +1,4 @@
-# Hash13_Video_Downloader
+# Hash13_Video_Downloader (Outdated)
 ## Who is this repo for ?
 This repository is only for the authorized users by the hash13 community and you can only use if you have learning portal access of hash13.
 ## What can you do with this script ?
